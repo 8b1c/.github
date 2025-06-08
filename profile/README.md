@@ -13,15 +13,15 @@
 
 ## 🔧 Core Modules
 
-| Module             | Description                          | Repository                                                  |
-| :---:              | :---:                                | :---:                                                       |
-| 🕙 Clock Module    | Clock generator with manual stepping | [`8b1c/clock-module`](https://github.com/8b1c/clock-module) |
-| 🧮 ALU             | Arithmetic Logic Unit                | ...                                                         |
-| 🧠 RAM             | Random Access Memory                 | ...                                                         |
-| 🔁 Program Counter | Tracks current instruction address   | ...                                                         |
-| 📥 Registers       | General-purpose input registers      | ...                                                         |
-| 📤 Output Register | Displays or outputs register values  | ...                                                         |
-| 🧩 CPU             | Complete integration of all modules  | ...                                                         |
+| Module             | Description                            | Repository                                                  |
+| :---:              | :---:                                  | :---:                                                       |
+| 🕙 Clock Module    | DIY Clock Module powered by 555 Timers | [`8b1c/clock-module`](https://github.com/8b1c/clock-module) |
+| 🧮 ALU             | ...                                    | ...                                                         |
+| 🧠 RAM             | ...                                    | ...                                                         |
+| 🔁 Program Counter | ...                                    | ...                                                         |
+| 📥 Registers       | ...                                    | ...                                                         |
+| 📤 Output Register | ...                                    | ...                                                         |
+| 🧩 CPU             | ...                                    | ...                                                         |
 
 ## 📐 Project Goals
 
