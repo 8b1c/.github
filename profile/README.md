@@ -1,5 +1,6 @@
-<h1 align="center">8b1c — 8 bits, 1 chip</h1>
 <p align="center">
+  <img src="../.github/imgs/8b1c text.png" width="600"/>
+  <br>
   <strong>A modular 8-bit computer, built from the ground up.</strong>
 </p>
 
@@ -41,4 +42,4 @@ All modules are released under open-source licenses. Check each repository for s
 
 ---
 
-<p align="center"><strong>8 bits. 1 chip. Endless curiosity.</strong></p>
+<p align="center"><strong>8 bit. 1 chip. Endless curiosity.</strong></p>
